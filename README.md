@@ -12,7 +12,7 @@ It then fetches a relevant free stock video from the **Pexels API** and displays
 - Beautiful background image and smooth transitions
 
 ### 🛠️ Built With:
-- **HTML** / **CSS** / **JavaScript** (Vanilla, no frameworks)
+- **HTML** / **CSS** / **JavaScript** 
 - **Pexels API** (for videos)
 
 ### 🚀 Website link: 
