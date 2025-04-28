@@ -1,0 +1,39 @@
+        body {
+            font-family: Arial, sans-serif;
+            font-style: italic;
+            text-align: center;
+            padding: 40px;
+            margin: 0;
+            height: 100vh;
+            background-image: url('https://img.freepik.com/free-vector/abstract-banner-with-low-poly-plexus-network-communications-design_1048-12914.jpg?t=st=1745857363~exp=1745860963~hmac=df374796393c334c62b12601dfc88225877e73c9c94aa5d59a8c0cb37ef17c39&w=1800'); /* <-- your image filename */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: rgb(0, 0, 0);
+        }
+        input, button {
+            padding: 10px;
+            font-size: 18px;
+            margin: 10px;
+            width: 300px;
+            border: none;
+            border-radius: 5px;
+        }
+        #loading {
+            display: none;
+            font-size: 20px;
+            color: #ddd;
+        }
+        video {
+            width: 80%;
+            max-width: 700px;  
+            height: auto;     
+            margin-top: 20px;
+            border-radius: 10px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            opacity: 0;
+            transition: opacity 1s ease;
+        }
